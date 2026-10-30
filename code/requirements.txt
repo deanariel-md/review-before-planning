@@ -1,0 +1,2 @@
+numpy
+pandas   # nhanes_records.py only, to read the NHANES .XPT files
